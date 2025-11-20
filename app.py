@@ -595,11 +595,11 @@ elif page == "🧠 Analytical Insights":
 elif page == "👩‍💻 About Creator":
     st.header("About / Contact")
     st.markdown("""
-    **Creator:** Devendra Kumar (example)
+    **Creator:** Devendra Kumar
     
     **Skills:** Python, SQL, Streamlit, Data Analysis, Banking Analytics
     
-    **Contact:** add-your-email@example.com
+    **Contact:** devendragkp45@gmail.com
     """)
     st.info("This app is a demo. Do not store production PII in a public repo.")
 
